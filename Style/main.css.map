@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "AAAA,OAAO,CAAC,4FAAI;AAOZ,AAAA,CAAC,CAAC;EACE,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,UAAU;CACzB;;AAED,AAAA,IAAI,CAAC;EACD,WAAW,EAAE,wBAAwB;CACxC",
+    "sources": [
+        "main.scss",
+        "utils/_mixin.scss",
+        "blocks/_navbar.scss",
+        "blocks/_main.scss",
+        "blocks/_people.scss",
+        "blocks/_footer.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}

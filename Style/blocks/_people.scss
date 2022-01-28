@@ -1,0 +1,14 @@
+.people {
+    background-color: $secondaryBgColor;
+    text-align: center;
+    padding: 20px 0;
+
+    img {
+            cursor: pointer;
+        }
+
+    .avatar {
+        margin-top: 20px;
+        @include display($gap: 10px, $flex-direction: column)        
+    }
+}
